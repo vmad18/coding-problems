@@ -7,3 +7,5 @@ Currently only added the medium and hard problems that I have completed on LeetC
 - Project Euler
 - CodeChef
 - USACO
+
+The problems I have solved involve Dynamic Programming, Graph Theory, Backtracking, Arrays, Sorting, etc.
